@@ -64,4 +64,4 @@ jobs:
         with:
           app-name: 'AIML-Dashboard'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_787E9DA77B864878A202C12FD26AF260 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F3D010A355A243BCA958172FFF383C4E }}
